@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a){return {data:[{}],fetch:[{fulltime:a,city:a,location:a,cities:["Berlin","Amsterdam","London","New York"]}],mutations:[]}}("")));
